@@ -37,6 +37,11 @@ public class ByteShortIntLong {
         System.out.println("Long Minimum value: " + myMinLongValue);
         System.out.println("Long Maximum value: " + myMaxLongValue+ "\n");
     
+        // casting 
+        int myTotal = (myMinIntValue/2);
+        byte mynewByteValue = (byte)(myMinByteValue/2); 
+        short myNewShortValue = (short) (myMinShortValue/2); 
+
     }
 
     
