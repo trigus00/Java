@@ -22,4 +22,7 @@ Java First Steps:
 - Strings 
     - Use of string and basic functionality 
     - String are immutable 
+- Operator & Operands 
+    - basic functions and writing code 
+    - Abbreviations: result++ , result += 2 ect... 
     
