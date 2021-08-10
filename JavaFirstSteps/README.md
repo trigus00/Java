@@ -25,4 +25,12 @@ Java First Steps:
 - Operator & Operands 
     - basic functions and writing code 
     - Abbreviations: result++ , result += 2 ect... 
-    
+
+- Challenge3:
+    - Create a double variavle with a value of 20.00
+    - Create a second variable of type double with 80.00
+    - Add both number together and multiply by 100.00
+    - Use the remainder operator to figure out what the remainder from the result of the operation in step 3 and 40.00 (modulus)
+    - Create a boolean variable that assigns the value true if the remainder from above is 0. or false if it's NOT zero 
+    - Print the output 
+    -  Write an if-then (ternary?) that displays a message "Got the remainder" if the boolean is not true.

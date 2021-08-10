@@ -18,11 +18,11 @@ public class CharAndBoolean {
 
         System.out.println("CopyRight Sysmbol: "+ myCopyRightChar);
 
-        boolean myTrueBooleanValue = true ; 
-        boolean myFalseBooleanValue = false; 
+        //boolean myTrueBooleanValue = true ; 
+        //boolean myFalseBooleanValue = false; 
 
         
-        boolean isCustomerOverTwentyone = true; 
+        //boolean isCustomerOverTwentyone = true; 
 
 
 

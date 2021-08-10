@@ -3,7 +3,7 @@ package Java.JavaFirstSteps;
 public class ByteShortIntLong {
     public static void main(String[] args) {
 
-        int myValue = 10000;
+        //int myValue = 10000;
 
         int myMinIntValue = Integer.MIN_VALUE;
         int myMaxIntValue = Integer.MAX_VALUE;
@@ -29,7 +29,7 @@ public class ByteShortIntLong {
         System.out.println("Short Maximum value: " + myMaxShortValue+ "\n");
         
         // Long max and min value 
-        long myLongValue = 100L; 
+        //long myLongValue = 100L; 
 
         long myMinLongValue = Long.MIN_VALUE;
         long myMaxLongValue = Long.MAX_VALUE;
@@ -38,9 +38,9 @@ public class ByteShortIntLong {
         System.out.println("Long Maximum value: " + myMaxLongValue+ "\n");
     
         // casting 
-        int myTotal = (myMinIntValue/2);
-        byte mynewByteValue = (byte)(myMinByteValue/2); 
-        short myNewShortValue = (short) (myMinShortValue/2); 
+        // int myTotal = (myMinIntValue/2);
+        // byte mynewByteValue = (byte)(myMinByteValue/2); 
+        // short myNewShortValue = (short) (myMinShortValue/2); 
 
     }
 
