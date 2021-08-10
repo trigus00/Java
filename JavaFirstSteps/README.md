@@ -17,3 +17,9 @@ Java First Steps:
     1) Create a variable with the appropriate type to store the number of pounds to be converted to kilograms
     2) Calculate the result i.e the number of kilograms based on the contents of the variable above and store the result in a 2nd appropriate variable 
     3) Print the results 
+-  Character and Boolean 
+    - using unicode and basic fuction of char and boolean
+- Strings 
+    - Use of string and basic functionality 
+    - String are immutable 
+    
