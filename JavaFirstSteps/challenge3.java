@@ -17,8 +17,7 @@ public class Challenge3 {
     System.out.println("MyValue: " + myValue);
     System.out.println("Remainder: " + myRemainder);
 
-    // Conditional operator 
-
+    // ternary operator 
     boolean noRemainder = (myRemainder == 0) ? true : false ;
     if(noRemainder){
 
